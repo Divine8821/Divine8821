@@ -22,6 +22,7 @@ Python | NumPy | Pandas | Matplotlib | PyTorch (learning) | Medical Imaging: MON
 - [TinyML Cry Detection](https://github.com/Divine8821/tinyml-cry-detection)
 - [ECG Signal Analysis](https://github.com/Divine8821/ECG-Benchmark)
 - [Biomedical Image Edge Detection](https://github.com/Divine8821/biomed-edge-detection)
+- [Bone Age Prediction Using Xrays](https://github.com/Divine8821/bone_age_project)
 
 ---
 
