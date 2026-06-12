@@ -23,6 +23,7 @@ Python | NumPy | Pandas | Matplotlib | PyTorch (learning) | Medical Imaging: MON
 - [ECG Signal Analysis](https://github.com/Divine8821/ECG-Benchmark)
 - [Biomedical Image Edge Detection](https://github.com/Divine8821/biomed-edge-detection)
 - [Bone Age Prediction Using Xrays](https://github.com/Divine8821/bone_age_project)
+- [Brain Segmentation on MRI Images](https://github.com/Divine8821/brats_project)
 
 ---
 
